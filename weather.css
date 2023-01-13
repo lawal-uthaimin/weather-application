@@ -1,0 +1,60 @@
+body{
+    background: cadetblue !important;
+}
+
+.container{
+    max-height: 300px !important;
+    display: block;
+    height: 10px;
+    max-width: 400px !important;
+    position: relative;
+    top: -50;
+    
+}
+
+.text-center{
+    border-radius: 2.5rem;
+}
+
+.lojol{
+    max-height: 50px!important;
+}
+
+.go{
+    max-height: 100px !important;
+}
+
+body{
+    background: rgb(34, 29, 87) !important;
+    letter-spacing: 0.2em !important;
+    font-size: 0.8em!important;
+}
+
+input{
+    height: -50px !important;
+    background: cornflowerblue !important;
+    border-radius: 2.5rem !important;
+    max-height: 25px;
+    max-width: 180px;
+    position: relative;
+    text-align: center;
+    justify-self: center;
+    left: 80px;
+}
+
+
+.time{
+    max-height: 200px !important;
+    max-width: 500px;
+}
+    
+element.style{
+    min-height: 500px !important;
+}
+
+.loplk{
+    font-weight: bolder;
+    font-family: algerian;
+    text-align: center;
+    font-size: 5px;
+}
